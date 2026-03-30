@@ -1,34 +1,7 @@
 {
-"scores": {
-"emotional_impact": {
-"score": 8.8,
-"reason": "The visceral dread of a massive, matte-black ordnance crushing delicate, translucent glass buildings is highly effective and immediately anxiety-inducing.",
-"improvement": "To increase the emotional stakes, ensure the surrounding city layout is immediately recognizable as a specific, highly populated real-world location rather than a mostly generic grid."
-},
-"constraint_adherence": {
-"score": 5.2,
-"reason": "It perfectly meets formatting constraints by avoiding standard charts and utilizing a single frame, but it fails to deliver a specific 'fact', acting as a thematic illustration rather than data visualization.",
-"improvement": "Ensure the visual metaphor translates a specific dataset—like comparative weapon yields or blast radii—into measurable visual proportions rather than just symbolizing a general threat."
-},
-"visual_originality": {
-"score": 7.8,
-"reason": "The physical diorama aesthetic remains striking and avoids AI data-viz cliches, though replacing the abstract monolith with a literal bomb is a more expected, conventional visual metaphor for destruction.",
-"improvement": "Explore ways to represent the threat using the data itself, perhaps forming the shape out of aggregated smaller elements representing individual data points like financial cost or population."
-},
-"legibility_without_labels": {
-"score": 4.8,
-"reason": "The topic of nuclear threat is unmistakable, and a background dome hints at a target, but the viewer cannot extract the specific statistical insight being visualized from the image alone.",
-"improvement": "If the bomb's scale represents a specific metric, map that data onto the city grid accurately—such as showing distinct zones of structural damage based on actual blast radius data."
-},
-"compositional_intent": {
-"score": 8.9,
-"reason": "Masterful use of lighting, depth of field, and material contrast to emphasize the heavy, light-absorbing threat resting heavily atop the fractured, reflective city.",
-"improvement": "Experiment with the angle of the object; tilting the bomb slightly downward as if captured a microsecond before full impact might increase the dynamic tension."
-}
-},
-"overall_score": 7.1,
-"brief_met": false,
-"model_default_escaped": true,
-"exhibition_worthy": false,
-"one_line_verdict": "A stunning, terrifying editorial illustration that clarifies its subject matter but still lacks a legible quantitative data point."
+  "prompt": "Macro studio photography, hyper-realistic, shot with a high-resolution lens. A colossal, rusted, brutalist iron balance scale suspended precariously over a deep, bottomless, pitch-black chasm. The scale is terrifyingly unbalanced. On one side sits an overwhelming, mountainous cluster of thousands of heavy, jagged iron weights, each emitting a faint, toxic, radioactive neon-green luminescence from within its cracks. This colossal mass causes that side of the scale to plunge drastically downward toward the void. On the opposite, elevated side of the scale sit only seven comparatively tiny, fragile-looking weights. The sheer, concentrated mass of the large cluster is so extreme that the thick, braided steel suspension cables holding the entire scale over the abyss are violently fraying, with individual steel strands visibly snapping, sparking, and curling outward under the immense, unsustainable tension. Dramatic, moody, directional spotlighting illuminating the fraying cables and the glowing toxic green cracks. Absolutely no text, no words, no letters, no numbers, no charts, no labels. No people visible, no globes, no mushroom clouds, no fire, no explosions. The mood is one of extreme, precarious imbalance, unbearable tension, and impending catastrophic collapse.",
+  "model": "Nano Banana Pro",
+  "dataset_name": "Estimated nuclear warhead stockpiles",
+  "dataset_url": "https://ourworldindata.org/grapher/nuclear-warhead-stockpiles-lines",
+  "insight": "In 2024, out of the nine nations that possess nuclear weapons, just two (Russia and the United States) hold nearly 90% of the world's total stockpile, creating a terrifyingly precarious concentration of global destructive power."
 }
